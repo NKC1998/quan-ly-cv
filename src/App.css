@@ -1,0 +1,33 @@
+.header {
+  text-align: center;
+  border-bottom: solid 1px rgb(133, 124, 124);
+}
+.header h1 {
+  margin-bottom: 20px;
+}
+
+/* Addjob */
+.addjob button{
+  text-align: center;
+}
+
+.selec{
+  font-size: 15px;
+  height: 30px;
+  width: 100%;
+}
+
+.btn-warning{
+  margin-right: 5px;
+}
+
+.khung-addjob{
+  border: 0.5px solid #f7d8df;
+  border-radius: 2px;
+}
+
+.mt-15{
+  margin-top: 15px;
+  
+}
+
